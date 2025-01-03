@@ -16,8 +16,8 @@
 ## Tutorial
 Check out the tutorial video: [Watch Tutorial](https://discord.com/cXZASk8kYT)
 
-## The Extremez Coder YouTube Channel
-We invite you to check out "The Extremez Coder" YouTube channel for more programming content and tutorials. Join our Discord server to connect with other developers and stay updated with the latest videos and announcements.
+## SwizDev YouTube Channel
+We invite you to check out "SwizDev" YouTube channel for more programming content and tutorials. Join our Discord server to connect with other developers and stay updated with the latest videos and announcements.
 
 Discord server, click [here](https://discord.gg/cXZASk8kYT).
 
